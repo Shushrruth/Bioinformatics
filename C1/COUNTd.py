@@ -20,7 +20,7 @@ def count(pattern,text,d):
 
 
 
-pattern = "AAA"
+pattern = "AA"
 
 text = "TACGCATTACAAAGCACA"
 
