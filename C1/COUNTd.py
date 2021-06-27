@@ -1,11 +1,5 @@
 ## Count d 
 
-
-
-
-
-
-
 def count(pattern,text,d):
     def ham(s1,s2):
         count = 0
@@ -26,7 +20,7 @@ def count(pattern,text,d):
 
 
 
-pattern = "AA"
+pattern = "AAA"
 
 text = "TACGCATTACAAAGCACA"
 
